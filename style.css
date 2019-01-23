@@ -1,0 +1,46 @@
+html {
+    margin: 20px;
+}
+
+header {
+    font-family: 'Source Sans Pro', sans-serif;
+    font-size: 40px;
+    text-align: center;
+    padding: 20px;
+}
+
+.question {
+    font-family: 'Roboto', sans-serif;
+    font-size: 24px;
+    padding-bottom: 20px;
+}
+
+.answer1,
+.answer2,
+.answer3,
+.answer4 {
+    font-family: 'Bitter', serif;
+    font-size: 2em;
+    border: 1px solid black;
+    padding: 20px;
+    width: 800px;
+    margin: 10px;
+    text-align: center;
+}
+
+.questionsMain {
+    display: block;
+    padding: 20px;
+    border: 1px solid black;
+}
+
+.timer {
+    border: 1px solid red;
+    background-color: lightslategray;
+    font-family: 'Bitter', serif;
+    font-size: 40px;
+    width: 100px;
+    padding: 20px;
+    text-align: center;
+    float: right;
+}
